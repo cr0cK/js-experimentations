@@ -1,0 +1,11 @@
+{
+  "name": "experimentations",
+  "version": "1.0.0",
+  "description": "ES6/7 experimentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Mineaud <alexis.mineaud@gmail.com>",
+  "license": "ISC"
+}
